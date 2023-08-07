@@ -30,3 +30,10 @@ Some of my public security audits, reviews and contributions will be shared here
 ### June 2023
 
 10. Gambit - Perpetual DEX on zkSync
+
+### July 2023
+
+11. IoTex-IIP14 - Iotex Network
+12. PsyDelveV2 - NFT Staking Contract
+13. HexLink - Decentralized Identity Protocol
+
