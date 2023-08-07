@@ -34,6 +34,7 @@ Some of my public security audits, reviews and contributions will be shared here
 ### July 2023
 
 11. IoTex-IIP14 - Iotex Network
-12. PsyDelveV2 - NFT Staking Contract
+12. PsyDelve V2 - NFT Staking Contract
 13. HexLink - Decentralized Identity Protocol
+14. Gambit V2 - Perpetual DEX on zkSync
 
