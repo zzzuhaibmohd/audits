@@ -15,7 +15,7 @@ Some of my public security audits, reviews and contributions will be shared here
 
 3. [ParaSpace yAPE - NFT Lending Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/ParaSpaceYAPE/ParaSpaceYAPE_final_Secure3_Audit_Report.pdf)
 4. UbiLoan - A Peer-to-Pool Lending and Staking Protocol
-5. IOTA Heroes - web3 Metaverse Gaming
+5. [IOTA Heroes - web3 Metaverse Gaming](https://github.com/solodit/solodit_content/blob/main/reports/AuditOne/2023-04-13-Lotaheros.md)
 
 ### April 2023
 
