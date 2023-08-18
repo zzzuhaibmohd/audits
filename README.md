@@ -33,7 +33,7 @@ Some of my public security audits, reviews and contributions will be shared here
 
 ### July 2023
 
-11. IoTex-IIP14 - Iotex Network
+11. [IoTex-IIP14 - Iotex Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/IoTex-IIP14/IoTex_final_Secure3_Audit_Report.pdf)
 12. [PsyDelve V1 - NFT Staking Contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Psydelve_StakingV1_Audit_Report.pdf)
 13. HexLink - Decentralized Identity Protocol
 14. Gambit V2 - Perpetual DEX on zkSync
