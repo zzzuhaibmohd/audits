@@ -38,3 +38,6 @@ Some of my public security audits, reviews and contributions will be shared here
 13. HexLink - Decentralized Identity Protocol
 14. Gambit V2 - Perpetual DEX on zkSync
 
+### August 2023
+
+15. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
