@@ -41,3 +41,11 @@ Some of my public security audits, reviews and contributions will be shared here
 ### August 2023
 
 15. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
+
+
+
+
+## Public Audit Contest
+
+1. [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) (1 High, 1 Medium and 2 Low)
+
