@@ -19,7 +19,7 @@ Some of my public security audits, reviews and contributions will be shared here
 
 ### April 2023
 
-6. dappOSP2 - Web3 Operating System
+6. [dappOSP2 - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 7. [Gameland - Web3 Gaming and Social Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gameland/Gameland_final_Secure3_Audit_Report.pdf)
 
 ### May 2023
