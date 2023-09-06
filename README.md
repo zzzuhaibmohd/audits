@@ -41,6 +41,12 @@ Some of my public security audits, reviews and contributions will be shared here
 ### August 2023
 
 15. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
+16. Zarban SCS - fork of MakerDAO
+
+### September 2023
+
+17. AGNI Finance - Launchpad built on Mantle Network
+
 
 
 
