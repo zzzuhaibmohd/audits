@@ -54,6 +54,6 @@ Some of my public security audits, reviews and contributions will be shared here
 ## Public Audit Contest
 
 1. [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) (1 High, 1 Medium and 2 Low)
-2. Cyfrin - CodeHawks Escrow Contract (1 Low)
+2. [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) (1 Low)
 3. The SPARKN protocol (6 Lows)
 
