@@ -46,6 +46,7 @@ Some of my public security audits, reviews and contributions will be shared here
 ### September 2023
 
 17. AGNI Finance - Launchpad built on Mantle Network
+18. Humans.ai - Synapse Bridge
 
 
 
