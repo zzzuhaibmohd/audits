@@ -46,11 +46,11 @@ Some of my public security audits, reviews and contributions will be shared here
 ### September 2023
 
 17. AGNI Finance - Launchpad built on Mantle Network
-18. Humans.ai - Synapse Bridge
+18. Lynex - DEX on Linea
 
 ### October 2023
 
-19. Lynex - DEX on Linea 
+19. Humans.ai - Synapse Bridge
 
 
 ## Public Audit Contest
@@ -61,3 +61,4 @@ Some of my public security audits, reviews and contributions will be shared here
 4. Chainlink Staking v2 - Loading....
 5. Maia DAO (Ulysses) - Loading....
 6. Venus Prime - Loading....
+7. ENS Multidelegate - Loading....
