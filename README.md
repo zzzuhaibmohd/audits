@@ -6,7 +6,7 @@ I hold a Bachelor’s Degree in Computer Science and Engineering, which serves a
 
 Presently, I am a Smart Contract Auditor with renowned firms, including Secure3, AuditOne, and Chainrisk. I also actively participate in auditing contests hosted on platforms like Code4rena and CodeHawks. These experiences have provided me with valuable insights into blockchain security and have nurtured my commitment to ensuring the integrity of decentralized systems.
 
-I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
+I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
 
 ## Private Audits
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
@@ -22,7 +22,7 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 10. [IoTex-IIP14 - Iotex Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/IoTex-IIP14/IoTex_final_Secure3_Audit_Report.pdf)
 11. [PsyDelve V1 - NFT Staking Contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Psydelve_StakingV1_Audit_Report.pdf)
 12. HexLink - Decentralized Identity Protocol
-13. Gambit V2 - Perpetual DEX on zkSync
+13. [Gambit V2 - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 14. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 15. Zarban SCS - fork of MakerDAO
 16. AGNI Finance - Launchpad built on Mantle Network
