@@ -1,7 +1,14 @@
 # Zuhaib's security audits, reviews, contributions
 
-Some of my public security audits, reviews and contributions will be shared here
+## Intro
 
+I hold a Bachelor’s Degree in Computer Science and Engineering, which serves as the foundation of my career. With nearly four years of experience as a Software Developer, primarily focusing on Backend development, I transitioned into a role as a web2 Security Engineer for two years. I hold certifications as a Certified Ethical Hacker (CEHv10) and eLearnSecurity Junior Penetration Tester (eJPT).
+
+Presently, I am a Smart Contract Auditor with renowned firms, including Secure3, AuditOne, and Chainrisk. I also actively participate in auditing contests hosted on platforms like Code4rena and CodeHawks. These experiences have provided me with valuable insights into blockchain security and have nurtured my commitment to ensuring the integrity of decentralized systems.
+
+I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
+
+### Public Audits
 ### January 2023
 
 1. Sentosa Carbon
