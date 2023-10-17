@@ -13,7 +13,7 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 )
 2. [ParaSpace yAPE - NFT Lending Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/ParaSpaceYAPE/ParaSpaceYAPE_final_Secure3_Audit_Report.pdf)
 3. UbiLoan - A Peer-to-Pool Lending and Staking Protocol
-4. [IOTA Heroes - web3 Metaverse Gaming](https://github.com/solodit/solodit_content/blob/main/reports/AuditOne/2023-04-13-Lotaheros.md)
+4. [IOTA Heroes - web3 Metaverse Gaming](https://www.auditone.io/audit-report/iotaheroes)
 5. [dappOSP2 - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 6. [Gameland - Web3 Gaming and Social Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gameland/Gameland_final_Secure3_Audit_Report.pdf)
 7. [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -24,7 +24,7 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 12. HexLink - Decentralized Identity Protocol
 13. [Gambit V2 - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 14. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
-15. Zarban SCS - fork of MakerDAO
+15. [Zarban SCS - fork of MakerDAO](https://www.auditone.io/audit-report/zarban)
 16. AGNI Finance - Launchpad built on Mantle Network
 17. Lynex - DEX on Linea
 18. Humans.ai - Synapse Bridge
