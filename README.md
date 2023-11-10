@@ -26,7 +26,7 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 14. [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 15. [Zarban SCS - fork of MakerDAO](https://www.auditone.io/audit-report/zarban)
 16. AGNI Finance - Launchpad built on Mantle Network
-17. Lynex - DEX on Linea
+17. [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
 18. Humans.ai - Synapse Bridge
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 20. UnDisclosed - Liquid Staking Platform
