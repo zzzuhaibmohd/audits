@@ -4,9 +4,9 @@
 
 I hold a Bachelor’s Degree in Computer Science and Engineering, which serves as the foundation of my career. With nearly four years of experience as a Software Developer, primarily focusing on Backend development, I transitioned into a role as a web2 Security Engineer for two years. I hold certifications as a Certified Ethical Hacker (CEHv10) and eLearnSecurity Junior Penetration Tester (eJPT).
 
-Presently, I am a Smart Contract Auditor with renowned firms, including Secure3, AuditOne, and Chainrisk. I also actively participate in auditing contests hosted on platforms like Code4rena and CodeHawks. These experiences have provided me with valuable insights into blockchain security and have nurtured my commitment to ensuring the integrity of decentralized systems.
-
-I have audited a diverse range of contracts, including those related to ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, and more.
+Currently serving as a Smart Contract Auditor at both Secure3 and AuditOne, my auditing portfolio currently covers over
+30+ diverse codebases. I have expertise in auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
+Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liquid Staking Platforms, and more.
 
 ## Private Audits
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
@@ -29,7 +29,7 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 17. [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
 18. Humans.ai - Synapse Bridge
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
-20. UnDisclosed - Liquid Staking Platform
+20. Stake Together - Liquid Staking Platform
 21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
 
 ## Public Audit Contest
@@ -42,3 +42,4 @@ I have audited a diverse range of contracts, including those related to ERC20, E
 6. ENS Multidelegate - Analysis Report B Grade
 7. The Wildcat Protocol - 2 High
 8. NextGen - generative NFT art projects - Loading...
+9. Morpho Blue - Loading...
