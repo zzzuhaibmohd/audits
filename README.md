@@ -31,6 +31,9 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 20. Stake Together - Liquid Staking Platform
 21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
+22. UnDisclosed - MultiSig Wallet
+23. xPET - SocialFi Platform
+24. Loading ...
 
 ## Public Audit Contest
 
