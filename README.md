@@ -29,7 +29,7 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 17. [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
 18. Humans.ai - Synapse Bridge
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
-20. Stake Together - Liquid Staking Platform
+20. [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)
 21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
 22. UnDisclosed - MultiSig Wallet
 23. xPET - SocialFi Platform
@@ -40,9 +40,9 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 1. [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) (1 High, 1 Medium and 2 Low)
 2. [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) (1 Low)
 3. [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) (1 Medium and 3 Low)
-4. Maia DAO (Ulysses) (1 Medium and Analysis Report A Grade)
-5. Venus Prime - 1 High
-6. ENS Multidelegate - Analysis Report B Grade
-7. The Wildcat Protocol - 2 High
-8. NextGen - generative NFT art projects - Loading...
+4. [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia) (1 Medium and Analysis Report A Grade)
+5. [Venus Prime](https://code4rena.com/reports/2023-09-venus) (1 High)
+6. [ENS Multidelegate](https://code4rena.com/reports/2023-10-ens) (Analysis Report B Grade)
+7. [The Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat) (3 High)
+8. NextGen - generative NFT art project - (3 High, 4 Medium and QA Report A Grade)
 9. Morpho Blue - Loading...
