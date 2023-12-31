@@ -32,7 +32,7 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 20. [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)
 21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
 22. UnDisclosed - MultiSig Wallet
-23. xPET - SocialFi Platform
+23. [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 24. Loading ...
 
 ## Public Audit Contest
