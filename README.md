@@ -9,6 +9,12 @@ Currently serving as a Smart Contract Auditor at both Secure3 and AuditOne, my a
 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liquid Staking Platforms, and more.
 
 ## Private Audits
+
+### 2024
+1. TimeRift - Possum Labs(Shieldify)
+2. Rethink Finance
+
+### 2023
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
 )
 2. [ParaSpace yAPE - NFT Lending Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/ParaSpaceYAPE/ParaSpaceYAPE_final_Secure3_Audit_Report.pdf)
@@ -31,9 +37,8 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 20. [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)
 21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
-22. UnDisclosed - MultiSig Wallet
+22. ShimmerEVM - MultiSig Wallet
 23. [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
-24. Loading ...
 
 ## Public Audit Contest
 
