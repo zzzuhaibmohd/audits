@@ -36,7 +36,7 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 18. Humans.ai - Synapse Bridge
 19. Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 20. [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md)
-21. Magpie Burn Module - Multi-chain Yield Boosting Protocol
+21. [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 22. ShimmerEVM - MultiSig Wallet
 23. [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 
