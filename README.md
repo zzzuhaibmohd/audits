@@ -13,6 +13,8 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 ### 2024
 1. TimeRift - Possum Labs(Shieldify)
 2. Rethink Finance
+3. Open Price Feed - Uniswapv2AnchoredView Fork
+4. Loading ......
 
 ### 2023
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
@@ -49,5 +51,4 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 5. [Venus Prime](https://code4rena.com/reports/2023-09-venus) (1 High)
 6. [ENS Multidelegate](https://code4rena.com/reports/2023-10-ens) (Analysis Report B Grade)
 7. [The Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat) (3 High)
-8. NextGen - generative NFT art project - (3 High, 4 Medium and QA Report A Grade)
-9. Morpho Blue - Loading...
+8. [NextGen - generative NFT art project](https://code4rena.com/reports/2023-10-nextgen) (3 High, 4 Medium and QA Report A Grade)
