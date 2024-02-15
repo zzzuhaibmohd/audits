@@ -1,20 +1,29 @@
-# Zuhaib's security audits, reviews, contributions
+# zuhaibmohd Security Audits and Contributions
 
-## Intro
+## Quick Introduction
 
 I hold a Bachelor’s Degree in Computer Science and Engineering, which serves as the foundation of my career. With nearly four years of experience as a Software Developer, primarily focusing on Backend development, I transitioned into a role as a web2 Security Engineer for two years. I hold certifications as a Certified Ethical Hacker (CEHv10) and eLearnSecurity Junior Penetration Tester (eJPT).
 
-Currently serving as a Smart Contract Auditor at both Secure3 and AuditOne, my auditing portfolio currently covers over
-30+ diverse codebases. I have expertise in auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
+Currently working as an Independent Smart Contract Auditor, my auditing portfolio currently covers over
+35+ diverse codebases. I have expertise in auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liquid Staking Platforms, and more.
+
+I am currently participating in a ZK Fellowship cohort organized by yAcademy. This program provides me with the
+opportunity to delve into ZK Tech, where I am learning to audit codebases written in Rust and halo2
+
+## Dev projects
+
+1. [ProphetRouterV1 - Live on Mainnet](https://etherscan.io/address/0x6a153cdf5cc58f47c17d6a6b0187c25c86d1acfd)
+2. [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
 
 ## Private Audits
 
 ### 2024
-1. TimeRift - Possum Labs(Shieldify)
-2. Rethink Finance
-3. Open Price Feed - Uniswapv2AnchoredView Fork
-4. Loading ......
+1. Rethink Finance
+2. Barista Open Price Feed - Uniswapv2AnchoredView Fork
+3. Lynex Apebond - Voting Escrow
+4. MCR369Staking - ERC20 Staking contract
+5. Loading .....
 
 ### 2023
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
@@ -41,6 +50,7 @@ Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liq
 21. [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 22. ShimmerEVM - MultiSig Wallet
 23. [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
+24. TimeRift - Possum Labs(Shieldify)
 
 ## Public Audit Contest
 
