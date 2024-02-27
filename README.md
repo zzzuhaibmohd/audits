@@ -22,8 +22,10 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 1. Rethink Finance
 2. Barista Open Price Feed - Uniswapv2AnchoredView Fork
 3. Lynex Apebond - Voting Escrow
-4. MCR369Staking - ERC20 Staking contract
-5. Loading .....
+4. [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
+5. Mitosis - Modular Liquidity Protocol
+6. DEIN Network
+7. Loading ....
 
 ### 2023
 1. [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
