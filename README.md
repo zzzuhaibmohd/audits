@@ -29,6 +29,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 - Bondings - User-Generated Asset (UGA) Protocol on Blast L2
+- The New Elites - Web3 Gaming  
 
 ### DeFi DEXes
 - [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -37,6 +38,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
 - Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 - AGNI Finance - Launchpad built on Mantle Network
+- Glyph AMM
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
