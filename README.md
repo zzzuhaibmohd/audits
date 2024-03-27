@@ -47,13 +47,15 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [Zarban SCS - fork of MakerDAO](https://www.auditone.io/audit-report/zarban)
 
 
-### Omnichain and Bridges 
+### Omnichain, Bridges and L2 
 - [dappOS - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 - [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia)
 - HexLink - Decentralized Identity Protocol
 - Humans.ai - Synapse Bridge
 - [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 - Mitosis - Modular Liquidity Protocol
+- Mantle V2
+- zkLink Bridge - Fork of ZkSync Bridge
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
