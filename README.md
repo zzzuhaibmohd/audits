@@ -53,7 +53,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - HexLink - Decentralized Identity Protocol
 - Humans.ai - Synapse Bridge
 - [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
-- Mitosis - Modular Liquidity Protocol
+- [Mitosis - Modular Liquidity Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Mitosis/Mitosis_Secure3_Audit_Report.pdf)
 - Mantle V2
 - zkLink Bridge - Fork of ZkSync Bridge
 
