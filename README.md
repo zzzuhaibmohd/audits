@@ -19,7 +19,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 ## Smart Contract Audits
 
 
-### NFT, Gaming and Social-Fi
+### Tokens, NFT, Gaming and Social-Fi
 - [NextGen - generative NFT art project](https://code4rena.com/reports/2023-10-nextgen)
 - [ParaSpace yAPE - NFT Lending Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/ParaSpaceYAPE/ParaSpaceYAPE_final_Secure3_Audit_Report.pdf)
 - [IOTA Heroes - web3 Metaverse Gaming](https://www.auditone.io/audit-report/iotaheroes)
@@ -29,7 +29,8 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 - Bondings - User-Generated Asset (UGA) Protocol on Blast L2
-- The New Elites - Web3 Gaming  
+- The New Elites - Web3 Gaming
+- [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)  
 
 ### DeFi DEXes
 - [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -38,7 +39,8 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
 - Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 - AGNI Finance - Launchpad built on Mantle Network
-- Glyph AMM
+- [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
+- [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
@@ -54,8 +56,8 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - Humans.ai - Synapse Bridge
 - [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 - [Mitosis - Modular Liquidity Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Mitosis/Mitosis_Secure3_Audit_Report.pdf)
-- Mantle V2
-- zkLink Bridge - Fork of ZkSync Bridge
+- [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
+- [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
