@@ -41,6 +41,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - AGNI Finance - Launchpad built on Mantle Network
 - [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
 - [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
+- EthosX Operp - Derivatives Protocol
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
@@ -58,6 +59,7 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [Mitosis - Modular Liquidity Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Mitosis/Mitosis_Secure3_Audit_Report.pdf)
 - [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
+- FBTC - Omnichain Bridge
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
