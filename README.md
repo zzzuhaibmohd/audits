@@ -14,7 +14,8 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 ## Dev projects
 
 1. [ProphetRouterV1 - Live on Mainnet](https://etherscan.io/address/0x6a153cdf5cc58f47c17d6a6b0187c25c86d1acfd)
-2. [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
+2. Staking Platform - In Progress
+3. [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
 
 ## Smart Contract Audits
 
