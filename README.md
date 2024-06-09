@@ -5,20 +5,24 @@
 I hold a Bachelor’s Degree in Computer Science and Engineering, which serves as the foundation of my career. With nearly four years of experience as a Software Developer, primarily focusing on Backend development, I transitioned into a role as a web2 Security Engineer for two years. I hold certifications as a Certified Ethical Hacker (CEHv10) and eLearnSecurity Junior Penetration Tester (eJPT).
 
 Currently working as an Independent Smart Contract Auditor, my auditing portfolio currently covers over
-35+ diverse codebases. I have expertise in auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
+40+ diverse codebases. I have expertise in developing and auditing various protocols, including ERC20, ERC721, ERC1155, ERC4626, Web3
 Gaming, Perpetual DEXes, Launchpads, Staking Contracts, Cross-Chain bridges, Liquid Staking Platforms, and more.
 
-I am currently participating in a ZK Fellowship cohort organized by yAcademy. This program provides me with the
-opportunity to delve into ZK Tech, where I am learning to audit codebases written in Rust and halo2
+I am currently exploring Rust Development and Auditing.
 
 ## Dev projects
 
 1. [ProphetRouterV1 - Live on Mainnet](https://etherscan.io/address/0x6a153cdf5cc58f47c17d6a6b0187c25c86d1acfd)
-2. Staking Platform - In Progress
+2. ProphetBots RevShare Contract - Staking Contract
 3. [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
+4. Loading ...
+
+## Rust Smart Contract Audits
+- ZKBase - Layer2 Scaling Solution
+- DomiChain AI - AI-Secured Social-Fi Blockchain
+- Loading ....
 
 ## Smart Contract Audits
-
 
 ### Tokens, NFT, Gaming and Social-Fi
 - [NextGen - generative NFT art project](https://code4rena.com/reports/2023-10-nextgen)
@@ -49,7 +53,6 @@ opportunity to delve into ZK Tech, where I am learning to audit codebases writte
 - [The Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 - UbiLoan - A Peer-to-Pool Lending and Staking Protocol
 - [Zarban SCS - fork of MakerDAO](https://www.auditone.io/audit-report/zarban)
-
 
 ### Omnichain, Bridges and L2 
 - [dappOS - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
