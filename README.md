@@ -35,7 +35,8 @@ I am currently exploring Rust Development and Auditing.
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 - Bondings - User-Generated Asset (UGA) Protocol on Blast L2
 - The New Elites - Web3 Gaming
-- [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)  
+- [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
+- CrosToken - Cronos Network
 
 ### DeFi DEXes
 - [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -64,10 +65,12 @@ I am currently exploring Rust Development and Auditing.
 - [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
 - FBTC - Omnichain Bridge
+- NeoX Bridge - EVM-compatible sidechain 
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
 - [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
+- RewardStation - Mantle Ecosystem 
 
 ### On-Chain MarketPlaces
 - [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
