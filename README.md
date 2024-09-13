@@ -34,10 +34,10 @@ I am currently exploring Rust Development and Auditing.
 - [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 - Bondings - User-Generated Asset (UGA) Protocol on Blast L2
-- The New Elites - Web3 Gaming
+- The New Elite - Web3 Gaming
 - [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - CrosToken - Cronos Network
-- DarkMythos - NFT Project
+- Dark Mythos - NFT Project
 
 ### DeFi DEXes
 - [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -49,6 +49,7 @@ I am currently exploring Rust Development and Auditing.
 - [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
 - [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
 - EthosX Operp - Derivatives Protocol
+- MagicSea Booster V1 - Leading DEX & NFT Marketplace on IOTA and Shimmer EVM
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
