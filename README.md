@@ -19,9 +19,8 @@ I am currently exploring Rust Development and Auditing.
 
 ## Rust Smart Contract Audits
 - ZKBase - Layer2 Scaling Solution
-- DomiChain AI - AI-Secured Social-Fi Blockchain
+- [DomiChain AI - AI-Secured Social-Fi Blockchain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/DomiChain_AI/DomiChain_AI_Secure3_Audit_Report.pdf)
 - [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
-- Loading ....
 
 ## Smart Contract Audits
 
@@ -67,13 +66,13 @@ I am currently exploring Rust Development and Auditing.
 - [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
 - FBTC - Omnichain Bridge
-- NeoX Bridge - EVM-compatible sidechain 
+- [NeoX Bridge - EVM-compatible sidechain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/NeoX_Bridge_Contract/NeoX_Bridge_Contract_Secure3_Audit_Report.pdf) 
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
 - [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
 - [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
-- RewardStation - Mantle Ecosystem 
+- [RewardStation - Mantle Ecosystem](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/RewardStation/RewardStation_Secure3_Audit_Report.pdf)
 
 ### On-Chain MarketPlaces, DAO and others
 - [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
