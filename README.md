@@ -35,9 +35,9 @@ I am currently exploring Rust Development and Auditing.
 - [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
 - Bondings - User-Generated Asset (UGA) Protocol on Blast L2
-- The New Elite - Web3 Gaming
+- [The New Elite - Web3 Gaming](https://www.auditone.io/audit-report/the-new-elite)
 - [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
-- CrosToken - Cronos Network
+- [CrosToken - Cronos Network](https://www.auditone.io/audit-report/cros-audit)
 - Dark Mythos - NFT Project
 
 ### DeFi DEXes
@@ -50,7 +50,7 @@ I am currently exploring Rust Development and Auditing.
 - [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
 - [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
 - EthosX Operp - Derivatives Protocol
-- MagicSea Booster V1 - Leading DEX & NFT Marketplace on IOTA and Shimmer EVM
+- [ShimmerSea V1 - DEX & NFT Marketplace](https://www.auditone.io/audit-report/shimmersea-2)
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
@@ -80,6 +80,6 @@ I am currently exploring Rust Development and Auditing.
 - [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)
 - [IoTex-IIP14 - Iotex Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/IoTex-IIP14/IoTex_final_Secure3_Audit_Report.pdf)
 - Lynex Apebond - Voting Escrow Protocol
-- Rethink Finance - Non-Custodial Asset Management Protocol
+- [Rethink Finance - Non-Custodial Asset Management Protocol](https://www.auditone.io/audit-report/rethink-finance)
 - Barista Open Price Feed - Uniswapv2AnchoredView Fork
-- DEIN Network - DeFi Insurance Marketplace
+- [DEIN Network - DeFi Insurance Marketplace](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
