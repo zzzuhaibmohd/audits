@@ -14,6 +14,7 @@ I am currently exploring Rust Development and Auditing.
 - ProphetBots RevShare Contract - Staking Contract
 - [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
 - UniswapV2 Clone - Weave EVM Network
+- [TWAMM Hook for Uniswap v4](https://github.com/leeftk/hooks-fwb)
 - Loading ....
 
 ## Rust Smart Contract Audits
@@ -55,13 +56,12 @@ I am currently exploring Rust Development and Auditing.
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 - [The Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 - UbiLoan - A Peer-to-Pool Lending and Staking Protocol
-- [Zarban SCS - fork of MakerDAO](https://www.auditone.io/audit-report/zarban)
 
 ### Omnichain, Bridges and L2 
 - [dappOS - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 - [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia)
 - HexLink - Decentralized Identity Protocol
-- Humans.ai - Synapse Bridge
+- [Humans.ai - Synapse Bridge](https://github.com/humansdotai/audit-reports/blob/main/AuditOne_SynapseBridge_audit_report.pdf)
 - [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 - [Mitosis - Modular Liquidity Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Mitosis/Mitosis_Secure3_Audit_Report.pdf)
 - [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
@@ -72,23 +72,14 @@ I am currently exploring Rust Development and Auditing.
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
 - [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
+- [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
 - RewardStation - Mantle Ecosystem 
 
-### On-Chain MarketPlaces
+### On-Chain MarketPlaces, DAO and others
 - [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
 - [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)
-- [GoMutual - Car Mutuality Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GoMutual/GoMutual_final_Secure3_Audit_Report.pdf
-)
 - [IoTex-IIP14 - Iotex Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/IoTex-IIP14/IoTex_final_Secure3_Audit_Report.pdf)
-- Rethink Finance - Non-Custodial Asset Management Protocol
-- DEIN Network - DeFi Insurance Marketplace
-
-### DAO and Delegation
-- [ENS Multidelegate](https://code4rena.com/reports/2023-10-ens)
 - Lynex Apebond - Voting Escrow Protocol
-
-### Oracles
+- Rethink Finance - Non-Custodial Asset Management Protocol
 - Barista Open Price Feed - Uniswapv2AnchoredView Fork
-
-### Liquid Staking Protocol
-- [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
+- DEIN Network - DeFi Insurance Marketplace
