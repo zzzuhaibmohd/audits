@@ -1,12 +1,10 @@
 # zuhaibmohd Dev / Security Contributions
 
-## Quick Intro
+## Quick Introduction
 
 An Independent Smart Contract Developer/Auditor with a portfolio of 50+ codebases. Expertise in ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, AMMs, DAOs, Launchpads, Lending/Borrowing, Staking Contracts, Cross-Chain Bridges, and Liquid Staking Platforms.
 
-My journey began with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certifi ed Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
-
-I am currently exploring Rust Development and Auditing.
+My journey began into the world of Information Technology with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certified Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
 
 ## Dev projects
 
@@ -15,14 +13,9 @@ I am currently exploring Rust Development and Auditing.
 - [Audit Anomalies Archive](https://github.com/zzzuhaibmohd/AuditAnomaliesArchive)
 - UniswapV2 Clone - Weave EVM Network
 - [TWAMM Hook for Uniswap v4](https://github.com/leeftk/hooks-fwb)
-- Loading ....
+- Stealth Cross Chain Payment Module
 
-## Rust Smart Contract Audits
-- ZKBase - Layer2 Scaling Solution
-- [DomiChain AI - AI-Secured Social-Fi Blockchain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/DomiChain_AI/DomiChain_AI_Secure3_Audit_Report.pdf)
-- [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
-
-## Smart Contract Audits
+## Solidity Smart Contract Audits
 
 ### Tokens, NFT, Gaming and Social-Fi
 - [NextGen - generative NFT art project](https://code4rena.com/reports/2023-10-nextgen)
@@ -44,18 +37,19 @@ I am currently exploring Rust Development and Auditing.
 - [Gambit - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 - [Gambit V2 - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 - [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
-- Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
 - AGNI Finance - Launchpad built on Mantle Network
 - [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
 - [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
-- EthosX Operp - Derivatives Protocol
 - [ShimmerSea V1 - DEX & NFT Marketplace](https://www.auditone.io/audit-report/shimmersea-2)
+- [StakeHousePool PulseChain](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/StakeHousePool-audit-report.pdf)
+- LeverageX Perpetual DEX
 
 ### Lending and Borrowing
 - [Beedle - Oracle free perpetual lending](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 - [The Wildcat Protocol](https://code4rena.com/reports/2023-10-wildcat)
 - UbiLoan - A Peer-to-Pool Lending and Staking Protocol
-
+- Savvy DeFi - DeFi lending platform on Arbitrum Mainnet
+  
 ### Omnichain, Bridges and L2 
 - [dappOS - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 - [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia)
@@ -73,7 +67,8 @@ I am currently exploring Rust Development and Auditing.
 - [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
 - [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
 - [RewardStation - Mantle Ecosystem](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/RewardStation/RewardStation_Secure3_Audit_Report.pdf)
-
+- [Bistro Staking](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/audit-bistro.pdf)
+  
 ### On-Chain MarketPlaces, DAO and others
 - [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
 - [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)
@@ -82,3 +77,9 @@ I am currently exploring Rust Development and Auditing.
 - [Rethink Finance - Non-Custodial Asset Management Protocol](https://www.auditone.io/audit-report/rethink-finance)
 - Barista Open Price Feed - Uniswapv2AnchoredView Fork
 - [DEIN Network - DeFi Insurance Marketplace](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
+
+## Rust Smart Contract Audits
+- ZKBase - Layer2 Scaling Solution
+- [DomiChain AI - AI-Secured Social-Fi Blockchain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/DomiChain_AI/DomiChain_AI_Secure3_Audit_Report.pdf)
+- [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
+- Omnibridge Near Audit
