@@ -2,7 +2,7 @@
 
 ## Quick Introduction
 
-An Independent Smart Contract Developer/Auditor with a portfolio of 50+ codebases. Expertise in ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, AMMs, DAOs, Launchpads, Lending/Borrowing, Staking Contracts, Cross-Chain Bridges, and Liquid Staking Platforms.
+An Independent Smart Contract Developer/Auditor with a portfolio of 60+ codebases. Expertise in ERC20, ERC721, ERC1155, ERC4626, Web3 Gaming, Perpetual DEXes, AMMs, DAOs, Launchpads, Lending/Borrowing, Staking Contracts, Cross-Chain Bridges, and Liquid Staking Platforms.
 
 My journey began into the world of Information Technology with a Bachelor’s Degree in Computer Science and Engineering, which laid the foundation for my career. I accumulated nearly four years of experience as a Software Developer, primarily focusing on Backend development, before transitioning into a role as a Web2 Security Engineer for two years. I am also a Certified Ethical Hacker (CEHv10) and an eLearnSecurity Junior Penetration Tester (eJPT).
 
