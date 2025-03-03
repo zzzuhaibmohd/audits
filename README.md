@@ -14,6 +14,8 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - UniswapV2 Clone - Weave EVM Network
 - [TWAMM Hook for Uniswap v4](https://github.com/leeftk/hooks-fwb)
 - Stealth Cross Chain Payment Module
+- [Merkle Airdrop Contract](https://github.com/zzzuhaibmohd/MerkleDrop)
+- [Bonding Curve ERC20 Token](https://github.com/zzzuhaibmohd/Bonding-Curve-Token)
 
 ## Solidity Smart Contract Audits
 
