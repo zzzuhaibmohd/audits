@@ -16,6 +16,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - Stealth Cross Chain Payment Module
 - [Merkle Airdrop Contract](https://github.com/zzzuhaibmohd/MerkleDrop)
 - [Bonding Curve ERC20 Token](https://github.com/zzzuhaibmohd/Bonding-Curve-Token)
+- Stealth Funding Pot Payment Module
 
 ## Solidity Smart Contract Audits
 
@@ -33,6 +34,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [CrosToken - Cronos Network](https://www.auditone.io/audit-report/cros-audit)
 - Dark Mythos - NFT Project
+- Cybar.finance 
 
 ### DeFi DEXes
 - [KiloEx - Perpetual DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/KiloEx/KiloEx_final_Secure3_Audit_Report.pdf)
@@ -63,6 +65,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
 - FBTC - Omnichain Bridge
 - [NeoX Bridge - EVM-compatible sidechain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/NeoX_Bridge_Contract/NeoX_Bridge_Contract_Secure3_Audit_Report.pdf) 
+- Biconomy Composability - Pashov Audit Group
 
 ### Staking Projects
 - [Venus Prime](https://code4rena.com/reports/2023-09-venus)
@@ -70,7 +73,8 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
 - [RewardStation - Mantle Ecosystem](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/RewardStation/RewardStation_Secure3_Audit_Report.pdf)
 - [Bistro Staking](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/audit-bistro.pdf)
-  
+- Loading ...
+    
 ### On-Chain MarketPlaces, DAO and others
 - [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
 - [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)
@@ -85,3 +89,4 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [DomiChain AI - AI-Secured Social-Fi Blockchain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/DomiChain_AI/DomiChain_AI_Secure3_Audit_Report.pdf)
 - [Summa Version A](https://github.com/zBlock-2/audit-report/blob/main/versionA.md)
 - Omnibridge Near Audit
+- Omnibridge Near Audit 2
