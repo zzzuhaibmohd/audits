@@ -29,7 +29,6 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [PsyDelve V1 - NFT Staking Contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Psydelve_StakingV1_Audit_Report.pdf)
 - [xPET - SocialFi Platform](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/xPET/xPET_final_Secure3_Audit_Report.pdf)
 - [Dropzone_Komet - Escrow Contract for Batch Transfers](https://github.com/UNSNARL/audit-reports/blob/main/Dropzone_Komet_Security_Assessment.pdf)
-- Bondings - User-Generated Asset (UGA) Protocol on Blast L2
 - [The New Elite - Web3 Gaming](https://www.auditone.io/audit-report/the-new-elite)
 - [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [CrosToken - Cronos Network](https://www.auditone.io/audit-report/cros-audit)
@@ -41,7 +40,6 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [Gambit - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 - [Gambit V2 - Perpetual DEX on zkSync](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Gambit/Gambit_final_Secure3_Audit_Report.pdf)
 - [Lynex - DEX on Linea](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Lynex/Lynex_final_Secure3_Audit_Report.pdf)
-- AGNI Finance - Launchpad built on Mantle Network
 - [Glyph AMM](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/GlyphExchange/Glyph_Exchange_Secure3_Audit_Report.pdf)
 - [Loxodrome - NextGen ve(3,3) DEX](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Loxodrome/Loxodrome_Secure3_Audit_Report.pdf)
 - [ShimmerSea V1 - DEX & NFT Marketplace](https://www.auditone.io/audit-report/shimmersea-2)
@@ -57,18 +55,15 @@ My journey began into the world of Information Technology with a Bachelor’s De
 ### Omnichain, Bridges and L2 
 - [dappOS - Web3 Operating System](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP2_final_Secure3_Audit_Report.pdf)
 - [Maia DAO (Ulysses)](https://code4rena.com/reports/2023-09-maia)
-- HexLink - Decentralized Identity Protocol
 - [Humans.ai - Synapse Bridge](https://github.com/humansdotai/audit-reports/blob/main/AuditOne_SynapseBridge_audit_report.pdf)
 - [Magpie Burn Module - Multi-chain Yield Boosting Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/MagpieBurn/MagpieBurn_final_Secure3_Audit_Report.pdf)
 - [Mitosis - Modular Liquidity Protocol](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Mitosis/Mitosis_Secure3_Audit_Report.pdf)
 - [zkLink Bridge Update - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [zkLink Nova Arbitrator Upgrade - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNovaArbitrator/zkLink%20Nova%20Arbitrator%20Upgrade_Secure3_Audit_Report.pdf)
-- FBTC - Omnichain Bridge
 - [NeoX Bridge - EVM-compatible sidechain](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/NeoX_Bridge_Contract/NeoX_Bridge_Contract_Secure3_Audit_Report.pdf) 
 - Biconomy Composability - Pashov Audit Group
 
 ### Staking Projects
-- [Venus Prime](https://code4rena.com/reports/2023-09-venus)
 - [MCR369 Buffer - Staking contract](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/MCR369_Buffet_Audit_Report.pdf)
 - [Stake Together - Liquid Staking Platform](https://github.com/sensesecurity/reporter/blob/main/output/StakeTogether_20231130160542.md) 
 - [RewardStation - Mantle Ecosystem](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/RewardStation/RewardStation_Secure3_Audit_Report.pdf)
@@ -76,10 +71,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - Loading ...
     
 ### On-Chain MarketPlaces, DAO and others
-- [Cyfrin - CodeHawks Escrow Contract](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya)
-- [The SPARKN protocol](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)
 - [IoTex-IIP14 - Iotex Network](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/IoTex-IIP14/IoTex_final_Secure3_Audit_Report.pdf)
-- Lynex Apebond - Voting Escrow Protocol
 - [Rethink Finance - Non-Custodial Asset Management Protocol](https://www.auditone.io/audit-report/rethink-finance)
 - Barista Open Price Feed - Uniswapv2AnchoredView Fork
 - [DEIN Network - DeFi Insurance Marketplace](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
