@@ -32,6 +32,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [The New Elite - Web3 Gaming](https://www.auditone.io/audit-report/the-new-elite)
 - [zklink MergeToken - Fork of ZkSync Bridge](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/zkLinkNova/zkLink%20Nova%20Bridge%20Update_Secure3_Audit_Report.pdf)
 - [CrosToken - Cronos Network](https://www.auditone.io/audit-report/cros-audit)
+- [LeaderBoardV2 Audit](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/LeaderboardV2_Audit_Report.pdf)
 - Dark Mythos - NFT Project
 - Cybar.finance 
 
@@ -75,6 +76,7 @@ My journey began into the world of Information Technology with a Bachelor’s De
 - [Rethink Finance - Non-Custodial Asset Management Protocol](https://www.auditone.io/audit-report/rethink-finance)
 - Barista Open Price Feed - Uniswapv2AnchoredView Fork
 - [DEIN Network - DeFi Insurance Marketplace](https://github.com/leeftk/audit-reports/blob/main/private%20audits/Dein-audit-report-%202.pdf)
+- [Vyral Fun Escrow](https://github.com/zzzuhaibmohd/audits/blob/main/audit%20reports/Vyral_Fun_Escrow_Audit_Report.pdf)
 
 ## Rust Smart Contract Audits
 - ZKBase - Layer2 Scaling Solution
